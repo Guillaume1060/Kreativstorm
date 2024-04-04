@@ -11,5 +11,5 @@ Create a basic Java calculator program that performs the four basic arithmetic o
 subtraction, multiplication, and division. The program should take input from the user for two numbers
 and an operator, perform the requested operation, and display the result.
 
-### 2. Test
+### 2. Testing Git
 
