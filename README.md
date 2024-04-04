@@ -7,7 +7,7 @@ Working in an international environment to cooperate with a Java full stack proj
 
 ### 1. The calculator
 
-- Create a basic Java calculator program that performs the four basic arithmetic operations: addition,
+Create a basic Java calculator program that performs the four basic arithmetic operations: addition,
 subtraction, multiplication, and division. The program should take input from the user for two numbers
 and an operator, perform the requested operation, and display the result.
 
