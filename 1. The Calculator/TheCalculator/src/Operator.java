@@ -5,7 +5,7 @@ public enum Operator {
     MULTIPLICATION("*", (a, b) -> a * b),
     // Managing the case of division by 0 by sending an error to the catch.
     DIVISION("/", (a, b) -> {
-        if (b!=0) return a/b;
+        if (b != 0) return a / b;
         throw new IllegalArgumentException("Division by zero is not allowed");
     }),
     EXPONENTIATION("^", Math::pow),
