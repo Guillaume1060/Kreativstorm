@@ -15,5 +15,5 @@ This class uses the Scanner and different methods to interact with the user.
 About calculation, I used an ENUM class to create operators with its symbol and a functionnal interface to calculate the result.
 Exceptions are also managed.
 
-### 2. To continue
+### 2. Advanced Student Management System
 
